@@ -1,0 +1,32 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+#side-nav {
+    background-color: black;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: fixed;
+    top: 50px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 500;
+    height: 100%;
+    overflow: auto;
+    padding-bottom: 85px;
+}
+
+#side-nav a{
+    color: gray;
+    margin-left: 20px;
+}
+
+.navbar{
+    background-color: black
+}
+
+.navbar a{
+    color: gray;
+    
+}
